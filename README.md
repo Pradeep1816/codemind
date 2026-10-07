@@ -1,6 +1,6 @@
 # CodeMind
 
-  CodeMind is a full-stack code-intelligence platform that transforms Git
+  CodeMind is a code-intelligence platform that transforms Git
   repositories into structured and searchable knowledge.
 
   It indexes source code, extracts symbols and dependencies, identifies business
